@@ -34,6 +34,8 @@ img {
   size: 5in 8in;
   margin-top: 0.25in;
   margin-bottom: 0.25in;
+  bleed: 0.25in;
+  marks: crop;
 }
 @page:left {
   margin-left: 0.15in;
