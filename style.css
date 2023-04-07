@@ -30,6 +30,9 @@ img {
   }
 }
 
+.cover {
+  background-color: black;
+}
 @page {
   size: 5in 8in;
   margin-top: 0.25in;
